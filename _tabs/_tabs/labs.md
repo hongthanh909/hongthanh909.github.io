@@ -1,14 +1,18 @@
 ---
 title: Labs
-icon: fas fa-flask
+layout: page
+permalink: /labs/
+icon: flask
 order: 5
 ---
 
-# 🧪 Labs SOC
+Dưới đây là các bài mô phỏng tấn công/phân tích log SOC:
 
-Tổng hợp các bài mô phỏng SOC:
-- Phishing detection
-- Brute-force RDP
-- Malware analysis
-- Lateral movement
-
+{% assign lab_posts = site.posts | where_exp:"item", "item.categories contains 'SOC'" %}
+<ul>
+  {% for post in lab_posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}
+    </li>
+  {% endfor %}
+</ul>

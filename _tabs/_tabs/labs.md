@@ -11,4 +11,4 @@ Tổng hợp các bài mô phỏng SOC:
 - Brute-force RDP
 - Malware analysis
 - Lateral movement
-- ...
+

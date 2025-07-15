@@ -38,6 +38,6 @@ Tạo file `index.html` và `login.php` để hiển thị form giả và ghi l�
 
 ### 🖼️ Tạo file login.php
 
-<img src="../assets/src_index.png" width="512">
+<img src="../assets/src_login.png" width="512">
 
 

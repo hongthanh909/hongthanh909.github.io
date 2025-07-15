@@ -42,8 +42,15 @@ Tạo file `index.html` và `login.php` để hiển thị form giả và ghi l�
 
 
 ## 🔨 Bước 2: Test form
-🔧 1. Đảm bảo Apache đang chạy               sudo service apache2 start
-🌐 2. Truy cập form từ trình duyệt
+🔧 1. Đảm bảo Apache đang chạy             ```  sudo service apache2 start```.
+
+🌐 2. Truy cập form từ trình duyệt         ``` http://192.168.200.129``` 
+
+🖱️ 3. Nhập thử tài khoản
+
+<img src="../assets/src_loginweb.png" width="512">
+
+📁 4. Kiểm tra file log         ```cat /var/www/html/creds.txt```
 
 
 

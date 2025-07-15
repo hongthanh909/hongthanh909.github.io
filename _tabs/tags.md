@@ -41,3 +41,9 @@ Tạo file `index.html` và `login.php` để hiển thị form giả và ghi l�
 <img src="../assets/src_login.png" width="512">
 
 
+## 🔨 Bước 2: Test form
+🔧 1. Đảm bảo Apache đang chạy               sudo service apache2 start
+🌐 2. Truy cập form từ trình duyệt
+
+
+

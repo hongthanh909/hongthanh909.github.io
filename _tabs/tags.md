@@ -21,12 +21,23 @@ Mô phỏng tấn công DNS spoofing kết hợp phishing để thu thập tài 
 
 ## 🔨 Bước 1: Dựng Web Giả
 
-Tạo file `index.html` và `login.php` để hiển thị form và ghi lại tài khoản + mật khẩu.
+Tạo file `index.html` và `login.php` để hiển thị form giả và ghi lại tài khoản + mật khẩu nhập vào.
 
-### 🖼️ Ảnh: Cấu trúc thư mục `/var/www/html/`
+### 🖼️ Cấu trúc thư mục `/var/www/html/`
 
-```plaintext
-/var/www/html/
+
+
+```
 ├── index.html   -> form login
 ├── login.php    -> ghi lại thông tin user
 └── creds.txt (sẽ được tạo sau khi user login)
+```
+### 🖼️ Tạo file index.html
+
+<img src="../assets/src_index.png" width="512">
+
+### 🖼️ Tạo file login.php
+
+<img src="../assets/src_index.png" width="512">
+
+

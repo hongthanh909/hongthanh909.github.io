@@ -89,7 +89,7 @@ File ```creds.txt``` xuất hiện và chứa dòng như trên
 
  BƯỚC 2: Quét mạng tìm Victim
 
-<img src="../assets/src_scan.png" width="512">
+<img src="../assets/src.scan.png" width="512">
 
 # BẬT IP_FORWARDING
 

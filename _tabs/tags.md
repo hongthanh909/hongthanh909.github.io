@@ -98,3 +98,12 @@ File ```creds.txt``` xuất hiện và chứa dòng như trên
 💡 Sau khi bật IP forwarding
 Gói tin từ Victim -> chuyển bình thường -> sẽ không còn ```endpoint.lost```
 
+#  Mục tiêu của ARP Spoof 
+
+- Giả mạo để chèn attacker vào giữa victim & router
+
+- Thiết lập ARP table sai lệch ở victim & gateway
+
+- Bật IP forwarding để gói tin đi qua attacker mà không bị gián đoạn
+
+- Cho phép theo dõi hoặc điều hướng traffic của victim

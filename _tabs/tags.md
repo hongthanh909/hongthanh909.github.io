@@ -67,7 +67,7 @@ File ```creds.txt``` xuất hiện và chứa dòng như trên
  BƯỚC 1: Khởi động ```bettercap```
 
 
-<img src="../assets/src_bettercap.png" width="512">
+<img src="../assets/src_start_bettercap.png" width="512">
 
 
  BƯỚC 2: Quét mạng tìm Victim

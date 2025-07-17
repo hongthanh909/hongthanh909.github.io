@@ -62,3 +62,12 @@ Tự động redirect về ```https://accounts.google.com```
 
 File ```creds.txt``` xuất hiện và chứa dòng như trên
 
+# 🧪 Mô phỏng ARP Spoofing
+## 💡 Mục tiêu
+Khởi động ```bettercap```
+
+
+<img src="../assets/src_bettercap.png" width="512">
+
+
+ BƯỚC 2: Quét mạng tìm Victim

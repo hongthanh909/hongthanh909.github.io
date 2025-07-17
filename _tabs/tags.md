@@ -82,3 +82,6 @@ Khởi động ```bettercap```
 
 <img src="../assets/src_IP_forwarding.png" width="512">
 
+💡 Sau khi bật IP forwarding
+Gói tin từ Victim -> chuyển bình thường -> sẽ không còn ```endpoint.lost```
+

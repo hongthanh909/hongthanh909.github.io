@@ -66,9 +66,21 @@ File ```creds.txt``` xuất hiện và chứa dòng như trên
 ## 💡 Mục tiêu
  BƯỚC 1: Khởi động ```bettercap```
  
-```set arp.spoof.targets 192.168.200.135,192.168.200.2 ```
+```set arp.spoof.targets 192.168.200.135,192.168.200.2 ```  giả mạo ARP với cả 2 thiết bị này -> khiến chúng đều tin rằng attacker là người còn lại → attacker sẽ chen giữa
+
 ```set arp.spoof.gateway true ```
+
+- Dùng địa chỉ MAC của máy thật để gửi gói đến gateway (tránh gây DoS).
+
+- Tạo spoof 2 chiều an toàn hơn giữa victim và router.
+
 ```arp.spoof on ```
+
+- Gửi ARP giả liên tục -> Victim & Router
+  
+- Lừa cả 2 thiết bị update ARP table sai lệch, trỏ MAC attacker vào IP của nhau.
+
+- Kết quả: toàn bộ traffic giữa victim và router đi qua attacker.
 
 <img src="../assets/src_start_bettercap.png" width="512">
 

@@ -64,7 +64,7 @@ File ```creds.txt``` xuất hiện và chứa dòng như trên
 
 # 🧪 Mô phỏng ARP Spoofing
 ## 💡 Mục tiêu
-Khởi động ```bettercap```
+ BƯỚC 1: Khởi động ```bettercap```
 
 
 <img src="../assets/src_bettercap.png" width="512">
@@ -72,11 +72,7 @@ Khởi động ```bettercap```
 
  BƯỚC 2: Quét mạng tìm Victim
 
- <img src="../assets/src_scanbettercap.png" width="512">
-
- # ANALYSIC IP 
- 
- <img src="../assets/src_analysic_IP.png" width="512">
+<img src="../assets/src_scan.png" width="512">
 
 # BẬT IP_FORWARDING
 

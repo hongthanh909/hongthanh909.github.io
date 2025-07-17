@@ -73,3 +73,8 @@ Khởi động ```bettercap```
  BƯỚC 2: Quét mạng tìm Victim
 
  <img src="../assets/src_scanbettercap.png" width="512">
+
+ # ANALYSIC IP 
+ 
+ <img src="../assets/src_analysic_IP.png" width="512">
+

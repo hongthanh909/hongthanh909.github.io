@@ -78,3 +78,7 @@ Khởi động ```bettercap```
  
  <img src="../assets/src_analysic_IP.png" width="512">
 
+# BẬT IP_FORWARDING
+
+<img src="../assets/src_IP_forwarding.png" width="512">
+

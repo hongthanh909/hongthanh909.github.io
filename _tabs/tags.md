@@ -71,7 +71,7 @@ Tạo file `index.html` và `login.php` để hiển thị form giả và ghi l�
 
 📁 4. Kiểm tra file log         ```cat /var/www/html/creds.txt```
 
-<img src="../assets/src_creds.png" width="512">
+<img src="../assets/src_creds_txt.png" width="512">
 
 # KẾT QUẢ
 

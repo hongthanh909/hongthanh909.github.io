@@ -52,6 +52,8 @@ Tạo file `index.html` và `login.php` để hiển thị form giả và ghi l�
 
 <img src="../assets/src_IP_forwarding0.png" width="512">
 
+# Mục đích: Để các gói tin từ Victim -> chuyển được sang Gateway.
+
 ## 🔨 Bước 2: Test form
 🔧 1. Đảm bảo Apache đang chạy             ```  sudo service apache2 start```.
 
@@ -105,6 +107,7 @@ File ```creds.txt``` xuất hiện và chứa dòng như trên
 # BẬT IP_FORWARDING
 
 <img src="../assets/src_IP_forwarding.png" width="512">
+### Mục đích: Để các gói tin từ Victim -> chuyển được sang Gateway
 
 💡 Sau khi bật IP forwarding
 Gói tin từ Victim -> chuyển bình thường -> sẽ không còn ```endpoint.lost```

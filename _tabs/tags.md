@@ -110,7 +110,7 @@ File ```creds.txt``` xuất hiện và chứa dòng như trên
 
 <img src="../assets/src.scan.png" width="512">
 
-# BẬT IP_FORWARDING
+### BẬT IP_FORWARDING
 
 <img src="../assets/src_IP_forwarding.png" width="512">
 ### Mục đích: Để các gói tin từ Victim -> chuyển được sang Gateway

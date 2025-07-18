@@ -52,7 +52,7 @@ Tạo file `index.html` và `login.php` để hiển thị form giả và ghi l�
 
 <img src="../assets/src_IP_forwarding0.png" width="512">
 
-# Mục đích: Để các gói tin từ Victim -> chuyển được sang Gateway.
+#### Mục đích: Để các gói tin từ Victim -> chuyển được sang Gateway.
 
 ### 🖼️ Bật ```bettercap```
 

@@ -69,17 +69,15 @@ Tạo file `index.html` và `login.php` để hiển thị form giả và ghi l�
 
 <img src="../assets/src_login_webfb.png" width="512">
 
-📁 4. Kiểm tra file log         ```cat /var/www/html/creds.txt```
+📁 4. Kiểm tra file log     
 
-<img src="../assets/src_creds_txt.png" width="512">
-
-# KẾT QUẢ
+```cat /var/www/html/creds.txt```
 
 <img src="../assets/src_result.png" width="512">
 
 Submit form không báo lỗi
 
-Tự động redirect về ```https://accounts.google.com```
+Tự động redirect về ```https://facebook.com```
 
 File ```creds.txt``` xuất hiện và chứa dòng như trên
 

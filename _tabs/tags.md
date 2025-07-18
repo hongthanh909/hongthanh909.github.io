@@ -157,5 +157,5 @@ Gói tin từ Victim -> chuyển bình thường -> sẽ không còn ```endpoint
 
 🧩 BƯỚC 3: Truy cập ```facebook.com``` từ máy Victim 
 
-
+<img src="../assets/src_err_dns.png" width="512"> 
 

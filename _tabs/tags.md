@@ -127,3 +127,7 @@ Gói tin từ Victim -> chuyển bình thường -> sẽ không còn ```endpoint
 - Bật IP forwarding để gói tin đi qua attacker mà không bị gián đoạn
 
 - Cho phép theo dõi hoặc điều hướng traffic của victim
+
+# 🧪 Mô phỏng DNS Spoofing
+
+<img src="../assets/src_bettercap1.png" width="512"> 

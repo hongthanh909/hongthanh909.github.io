@@ -40,6 +40,17 @@ Tạo file `index.html` và `login.php` để hiển thị form giả và ghi l�
 
 <img src="../assets/src_login.png" width="512">
 
+### 🖼️ Tạo lại file rỗng creds.txt
+
+```sudo touch /var/www/html/creds.txt```
+
+### 🖼️ Cấp quyền ghi cho web server (để login.php ghi dữ liệu)
+
+```sudo chmod 666 /var/www/html/creds.txt```
+
+### 🖼️ Bật IP_forwarding
+
+
 
 ## 🔨 Bước 2: Test form
 🔧 1. Đảm bảo Apache đang chạy             ```  sudo service apache2 start```.

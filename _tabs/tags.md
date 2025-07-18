@@ -67,7 +67,7 @@ Tạo file `index.html` và `login.php` để hiển thị form giả và ghi l�
 
 🖱️ 3. Nhập thử tài khoản
 
-<img src="../assets/src_loginweb.png" width="512">
+<img src="../assets/src_web_fb.png" width="512">
 
 📁 4. Kiểm tra file log         ```cat /var/www/html/creds.txt```
 

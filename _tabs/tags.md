@@ -136,4 +136,5 @@ Gói tin từ Victim -> chuyển bình thường -> sẽ không còn ```endpoint
 
 🧩 BƯỚC 2: Cấu hình tấn công DNS Spoofing
 
+<img src="../assets/src_set_dns.png" width="512"> 
 

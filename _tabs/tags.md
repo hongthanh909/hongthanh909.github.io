@@ -75,6 +75,8 @@ Tạo file `index.html` và `login.php` để hiển thị form giả và ghi l�
 
 # KẾT QUẢ
 
+<img src="../assets/src_result.png" width="512">
+
 Submit form không báo lỗi
 
 Tự động redirect về ```https://accounts.google.com```

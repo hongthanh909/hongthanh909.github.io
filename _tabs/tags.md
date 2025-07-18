@@ -154,3 +154,8 @@ Gói tin từ Victim -> chuyển bình thường -> sẽ không còn ```endpoint
 ```dns.spoof on```                      
 
 - Bật tính năng DNS spoofing
+
+🧩 BƯỚC 3: Truy cập ```facebook.com``` từ máy Victim 
+
+
+

@@ -130,4 +130,10 @@ Gói tin từ Victim -> chuyển bình thường -> sẽ không còn ```endpoint
 
 # 🧪 Mô phỏng DNS Spoofing
 
+🧩 BƯỚC 1: Bật lại Bettercap và cấu hình DNS spoof
+
 <img src="../assets/src_bettercap1.png" width="512"> 
+
+🧩 BƯỚC 2: Cấu hình tấn công DNS Spoofing
+
+

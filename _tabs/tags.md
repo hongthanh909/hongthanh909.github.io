@@ -54,6 +54,11 @@ Tạo file `index.html` và `login.php` để hiển thị form giả và ghi l�
 
 # Mục đích: Để các gói tin từ Victim -> chuyển được sang Gateway.
 
+### 🖼️ Bật ```bettercap```
+
+<img src="../assets/src_bettercap0.png" width="512">
+
+
 ## 🔨 Bước 2: Test form
 🔧 1. Đảm bảo Apache đang chạy             ```  sudo service apache2 start```.
 

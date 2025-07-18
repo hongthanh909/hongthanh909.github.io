@@ -166,7 +166,14 @@ Gói tin từ Victim -> chuyển bình thường -> sẽ không còn ```endpoint
 - Trình duyệt Chrome sử dụng giao thức QUIC (UDP/443) thay vì HTTP/HTTPS thông thường.
 
 - Giao thức này vượt qua cơ chế DNS spoof của Bettercap → khiến việc chuyển hướng thất bại.
+  
+####Cách khắc phục:
 
-- 
+-Vào chrome://flags/#enable-quic
 
+-Tắt Experimental QUIC protocol (chọn Disabled)
+
+-Khởi động lại Chrome
+  
+<img src="../assets/src_err_dns.png" width="512"> 
 

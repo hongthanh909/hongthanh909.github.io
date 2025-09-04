@@ -1,8 +1,18 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Giới thiệu
+
+Xin chào 👋, mình là **Nguyen Thanh Hong**.  
+- 🎓 MSSV: **SE183239**  
+- 🏫 Trường: **FPT University**  
+
+### 📄 CV
+👉 [Xem CV tại TopCV](https://www.topcv.vn/xem-cv/DFtaBVRTUFsDVFZVUAwECFsEV1VbAlQEVFYCVAaca7)
+
+---
+
+Cảm ơn bạn đã ghé thăm trang cá nhân của mình!
